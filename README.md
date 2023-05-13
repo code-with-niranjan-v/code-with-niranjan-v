@@ -1,3 +1,12 @@
+👋 Hello there! I'm Niranjan V, a student pursuing B.tech Computer Science and Business System at Panimalar Engineering College. I'm passionate about Kotlin and Android development, as well as Python.
+
+🌟 Currently, I'm focusing on sharpening my skills in Kotlin and Android app development. I'm exploring topics like creating user interfaces, managing data, and integrating third-party libraries. I'm also learning Python, and I'm excited to delve into topics like data analysis and machine learning.
+
+🚀 On my GitHub profile, you'll find a range of coding projects that I've worked on. From small scripts to fully functional Android apps, I'm always looking for ways to improve my code and explore new technologies.
+
+🌍 When I'm not coding, I enjoy spending time with friends and family, reading, and playing video games.
+
+📫 If you're interested in collaborating or have any questions, feel free to reach out to me on GitHub or LinkedIn. Let's build something awesome together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjan-vinayagarathinam) 
