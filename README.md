@@ -2,7 +2,7 @@
 
 🌟 Currently, I'm focusing on sharpening my skills in Kotlin and Android app development. I'm exploring topics like creating user interfaces, managing data, and integrating third-party libraries. I'm also learning Python, and I'm excited to delve into topics like data analysis and machine learning.
 
-🚀 On my GitHub profile, you'll find a range of coding projects that I've worked on. From small scripts to fully functional Android apps, I'm always looking for ways to improve my code and explore new technologies.
+🚀 On my GitHub profile, you'll find a range of coding projects that I will be working on. From small scripts to fully functional Android apps, I'm always looking for ways to improve my code and explore new technologies.
 
 🌍 When I'm not coding, I enjoy spending time with friends and family, reading, and playing video games.
 
